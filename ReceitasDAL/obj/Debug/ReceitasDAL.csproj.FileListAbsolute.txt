@@ -1,0 +1,6 @@
+C:\Users\Utilizador.DESKTOP-0K55P8O\Desktop\Code Developer\Modulo 05 - Web\Aula 47 - Projeto\ReceitasDAL\bin\Debug\ReceitasDAL.dll
+C:\Users\Utilizador.DESKTOP-0K55P8O\Desktop\Code Developer\Modulo 05 - Web\Aula 47 - Projeto\ReceitasDAL\bin\Debug\ReceitasDAL.pdb
+C:\Users\Utilizador.DESKTOP-0K55P8O\Desktop\Code Developer\Modulo 05 - Web\Aula 47 - Projeto\ReceitasDAL\obj\Debug\ReceitasDAL.csprojAssemblyReference.cache
+C:\Users\Utilizador.DESKTOP-0K55P8O\Desktop\Code Developer\Modulo 05 - Web\Aula 47 - Projeto\ReceitasDAL\obj\Debug\ReceitasDAL.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador.DESKTOP-0K55P8O\Desktop\Code Developer\Modulo 05 - Web\Aula 47 - Projeto\ReceitasDAL\obj\Debug\ReceitasDAL.dll
+C:\Users\Utilizador.DESKTOP-0K55P8O\Desktop\Code Developer\Modulo 05 - Web\Aula 47 - Projeto\ReceitasDAL\obj\Debug\ReceitasDAL.pdb
